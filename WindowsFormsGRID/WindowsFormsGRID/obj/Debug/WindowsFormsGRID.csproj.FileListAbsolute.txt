@@ -1,0 +1,24 @@
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.csprojAssemblyReference.cache
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Form1.resources
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Properties.Resources.resources
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.csproj.GenerateResource.cache
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.csproj.CoreCompileInputs.cache
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\bin\Debug\WindowsFormsGRID.exe.config
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\bin\Debug\WindowsFormsGRID.exe
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\bin\Debug\WindowsFormsGRID.pdb
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.exe
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.pdb
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\bin\Debug\WindowsFormsGRID.exe.config
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\bin\Debug\WindowsFormsGRID.exe
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\bin\Debug\WindowsFormsGRID.pdb
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Form1.resources
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Properties.Resources.resources
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.csproj.GenerateResource.cache
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.csproj.CoreCompileInputs.cache
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.exe
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.pdb
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Form2.resources
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Form3.resources
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Form2.resources
+C:\Users\dip\Desktop\Labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.Form3.resources
+C:\Users\dip\Desktop\Vilaly labs\c# ООП\lab_file_container\WindowsFormsGRID\WindowsFormsGRID\obj\Debug\WindowsFormsGRID.csprojAssemblyReference.cache
